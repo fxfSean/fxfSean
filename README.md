@@ -52,9 +52,10 @@ I learned a lot from the open-source community and I love how collaboration and 
   <pre>
   🤷‍♂️  In my spare time, I also like to watch anime and like to visit Bilibili's website
   <br />
-  ![Dino](https://gitee.com/powerbyweekit/static-file/raw/master/dragbox.gif)
   </pre>
 </details>
+
+![image](https://gitee.com/powerbyweekit/static-file/raw/master/dragbox.gif)
 
 ![](https://github-profile-trophy.vercel.app/?username=fxfSean&theme=juicyfresh&no-bg=true&no-frame=true&column=4&%22)
 
